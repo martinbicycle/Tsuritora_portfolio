@@ -37,7 +37,7 @@
 
 ## 設計書
 
-
+https://docs.google.com/spreadsheets/d/1JP8V-fTZFgxF3l5__d4ehJgxjYoKw6v2UPGNh8f4A4g/edit?usp=sharing
 
 ## チャレンジ要素一覧
 
